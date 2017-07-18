@@ -25,7 +25,7 @@ The TinyFPGA A-Series boards are possible to build in an adequately equipped hom
 + Parts for the TinyFPGA [A1](https://octopart.com/bom-tool/Xj5vAWfE) or [A2](https://octopart.com/bom-tool/Cm0HpT6j)
 + [Lead-Free Solder Paste](https://www.amazon.com/gp/product/B00HKK6XHC)
 + [Stainless Steel Solder Paste Squeegee](http://dirtypcbs.com/store/details/14/solder-paste-squeegee)
-+ [TinyFPGA B-Series Solder Paste Stencil](https://www.oshstencils.com)
++ [TinyFPGA A-Series Solder Paste Stencil](https://www.oshstencils.com)
   + You'll need to generate the gerber files and upload the solder paste layer.  Either stainless steel or polymide stencils should work.
 + [TinyFPGA A-Series PCBs](https://oshpark.com/shared_projects/2xu90fiY)
 + [Precision Tweezers](https://www.amazon.com/Precision-Anti-static-Marrywindix-Electronics-Jewelry-making/dp/B00DVIEJ14) for placing parts on the board
