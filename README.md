@@ -32,7 +32,7 @@ The TinyFPGA A-Series boards are possible to build in an adequately equipped hom
 + [Reflow Oven](http://www.whizoo.com/) or an [electric griddle](https://www.amazon.com/Presto-07211-Liddle-Griddle/dp/B00006IUWL)
 
 ## Buy TinyFPGA A1 or A2 Boards
-If you don't want to go through the hassle of ordering parts, tools, and supplies and assembling the boards yourself you can order professionally assembled and tested boards from the [TinyFPGA Store](http://store.tinyfpga.com).  These boards are not hobbyist-made, they are fabricated and assembled in a professional PCB fab that manufactures and assembles many other consumer, industrial and military electronics.  They go through an automated testing and programming process to ensure the board is healthy and ready to program over JTAG.
+If you don't want to go through the hassle of ordering parts, tools, and supplies and assembling the boards yourself you can order professionally assembled and tested boards from the [TinyFPGA Store](https://www.tindie.com/stores/tinyfpga/).  These boards are fabricated and assembled in a professional PCB fab that manufactures and assembles many other consumer, industrial and military electronics.  They go through an automated testing and programming process to ensure the board is healthy and ready to program over JTAG.
 
 ## Project Directory Structure
 ### board
