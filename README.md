@@ -30,7 +30,6 @@ The TinyFPGA A-Series boards are possible to build in an adequately equipped hom
 + [TinyFPGA A-Series PCBs](https://oshpark.com/shared_projects/2xu90fiY)
 + [Precision Tweezers](https://www.amazon.com/Precision-Anti-static-Marrywindix-Electronics-Jewelry-making/dp/B00DVIEJ14) for placing parts on the board
 + [Reflow Oven](http://www.whizoo.com/) or an [electric griddle](https://www.amazon.com/Presto-07211-Liddle-Griddle/dp/B00006IUWL)
-+ [Lattice FPGA Programmer](https://www.ebay.com/sch/i.html?_productid=533163279)
 
 ## Buy TinyFPGA A1 or A2 Boards
 If you don't want to go through the hassle of ordering parts, tools, and supplies and assembling the boards yourself you can order professionally assembled and tested boards from the [TinyFPGA Store](http://store.tinyfpga.com).  These boards are not hobbyist-made, they are fabricated and assembled in a professional PCB fab that manufactures and assembles many other consumer, industrial and military electronics.  They go through an automated testing and programming process to ensure the board is healthy and ready to program over JTAG.
@@ -40,5 +39,5 @@ If you don't want to go through the hassle of ordering parts, tools, and supplie
 This contains a [KiCad](http://kicad-pcb.org/) project with the schematic and layout of the B-series boards.  The board is designed with 4/4mil track size/spacing and 0.2mm hole size.
 
 ## License
-The TinyFPGA B-Series project is an open source project licensed under GPLv3.  Please see the included LICENSE file for details.  If you do wish to distribute boards derived from this open source hardware project then you must also release the source files for the boards under GPLv3.  You are free to do this, but please improve upon the original design and provide a tangible benefit for users of the board.
+The TinyFPGA A-Series project is an open source project licensed under GPLv3.  Please see the included LICENSE file for details.  If you do wish to distribute boards derived from this open source hardware project then you must also release the source files for the boards under GPLv3.  You are free to do this, but please improve upon the original design and provide a tangible benefit for users of the board.
 
