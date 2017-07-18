@@ -12,7 +12,7 @@ The A-series boards use either XO2-256 or XO2-1200 FPGAs from Lattice.  It's a g
 | Distributed RAM  |   2 KBits   |   10 KBit   | 
 | Block RAM        |             |   64 KBit   |
 | User Flash       |             |   64 KBit   |
-| Phase Lock Loops |      1      |      1      |
+| Phase Lock Loops |             |      1      |
 | User IO Pins     |     21      |     21      |
 
 ### Common Features
