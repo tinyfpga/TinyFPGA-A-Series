@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BaliProject version="3.2" title="template_a2" device="LCMXO2-1200HC-4SG32C" default_implementation="impl">
+    <Options/>
+    <Implementation title="impl" dir="impl" description="impl" synthesis="lse" default_strategy="Strategy1">
+        <Options def_top="TinyFPGA_A2"/>
+        <Source name="TinyFPGA_A2.v" type="Verilog" type_short="Verilog">
+            <Options top_module="TinyFPGA_A2"/>
+        </Source>
+        <Source name="template_a2.lpf" type="Logic Preference" type_short="LPF">
+            <Options/>
+        </Source>
+    </Implementation>
+    <Strategy name="Strategy1" file="template_a21.sty"/>
+</BaliProject>
