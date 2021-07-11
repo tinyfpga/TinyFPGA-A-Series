@@ -1,0 +1,14 @@
+Updated schematic for Kicad v.5.1.9-1
+
+Altered FPGA-symbol: 
+added properties, shrunk down symbol-size to take up less space
+
+Defined the power-symbols with flags
+
+replaced symbols with old library-references
+
+Changed labels from global to local, and changed naming-scheme to reflect the AX card front picture
+
+Added schematic colour-coding for I/O-groups
+
+Altered folder-structure to a format mostly following the OSHWR.org guidelines

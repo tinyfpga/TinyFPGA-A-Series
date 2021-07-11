@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name machxo2)(type Legacy)(uri ${KIPRJMOD}/Libraries/Symbols/machxo2.lib)(options "")(descr ""))
+)
