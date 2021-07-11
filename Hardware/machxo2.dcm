@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MachXO2-1200-QFN32
+D MachXO2 Field Programmable Gate Array (FPGA) IC 21 65536 1280 32-UFQFN Exposed Pad 
+K FPGA CPLD SMD SMT
+F http://www.latticesemi.com/~/media/LatticeSemi/Documents/DataSheets/MachXO23/MachXO2FamilyDataSheet.pdf
+$ENDCMP
+#
+#End Doc Library
