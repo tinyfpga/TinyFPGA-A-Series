@@ -36,7 +36,7 @@ If you don't want to go through the hassle of ordering parts, tools, and supplie
 
 ## Project Directory Structure
 ### board
-This contains a [KiCad](http://kicad-pcb.org/) project with the schematic and layout of the B-series boards.  The board is designed with 4/4mil track size/spacing and 0.2mm hole size.
+This contains a [KiCad](http://kicad.org/) project with the schematic and layout of the B-series boards.  The board is designed with 4/4mil track size/spacing and 0.2mm hole size.
 
 ## License
 The TinyFPGA A-Series project is an open source project licensed under GPLv3.  Please see the included LICENSE file for details.  If you do wish to distribute boards derived from this open source hardware project then you must also release the source files for the boards under GPLv3.  You are free to do this, but please improve upon the original design and provide a tangible benefit for users of the board.
